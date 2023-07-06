@@ -1,0 +1,23 @@
+
+h{
+    display: block;
+}
+
+.act{
+    color: green;
+    font-size: 35px;
+}
+
+h6{
+    font-size:20px;
+    color: rgb(219, 8, 209);
+}
+button{
+    background-color: rgb(228, 241, 245);
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(240, 83, 206);
+}
